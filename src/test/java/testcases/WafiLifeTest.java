@@ -48,7 +48,7 @@ public class WafiLifeTest extends BaseDriverSetup{
 		
 //		View any Book Details
 		dewanNasirUddinBook.clickOnElement(dewanNasirUddinBook.PHYSICS_1ST_PAPER);
-		Thread.sleep(5000);
+		Thread.sleep(6000);
 		
 //		Click অর্ডার করুন
 		wafiLifeBookDetails.clickOnElement(wafiLifeBookDetails.ORDER_BOOK);
