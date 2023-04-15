@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Apr 15 22:46:36 BDT 2023","Sat Apr 15 22:49:10 BDT 2023","153991","Default suite","Default test","testcases.WafiLifeTest","testcases.WafiLifeTest","visitWafiLife","visitWafiLife",""
